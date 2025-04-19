@@ -1,0 +1,32 @@
+img{
+    height:300px;
+    width:300px;
+}
+.hidden{
+    visibility: hidden;
+}
+.fs-4{
+    color:#FF6F61;
+    font-size:800px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+/*.container{
+    background-color:aquamarine;
+}*/
+html{
+    background-color: aqua;
+}
+h1{
+    color:chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+.col-lg-6>h1{
+    color:darkorchid;
+
+}
+p{
+    font-weight: 700;
+    color:black;
+}
